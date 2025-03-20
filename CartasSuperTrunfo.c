@@ -1,8 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    printf("Desafio cartas super trunfo!\n");
-    
+    int população;
+    float área;
+    float PIB;
+    int número de pontos turisticos;
+
+    prinf("")
+
 
 
 
